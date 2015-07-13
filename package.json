@@ -26,6 +26,6 @@
     "event": "event-component"
   },
   "dependencies": {
-    "event-component": "~0.1.0"
+    "event-component": "^0.1.0"
   }
 }
